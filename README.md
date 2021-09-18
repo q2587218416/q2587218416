@@ -1,4 +1,4 @@
-### Hi there 👋
+### 哈喽 👋
 
 <!--
 **q2587218416/q2587218416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![dsadsad](https://github-readme-stats.vercel.app/api?username=q2587218416&theme=default&show_icons=true&bg_color=30,11998e,44b984&title_color=fff&text_color=fff&icon_color=ffffff&include_all_commits=true)
