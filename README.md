@@ -1,7 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=q2587218416&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&include_all_commits=true&hide_title=true" />
 
-感谢伯乐在线 https://github.com/jobbole
-### 哈喽 👋
+### 感谢伯乐在线 https://github.com/jobbole 👋
 
 <!--
 **q2587218416/q2587218416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
