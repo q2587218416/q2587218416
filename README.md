@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=q2587218416&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&include_all_commits=true&hide_title=true" />
 
 #### 感谢伯乐在线 https://github.com/jobbole 👋
-##### 夫君子之行，静以修身，俭以养德。非淡泊无以明志，非宁静无以致远。夫学须静也，才须学也，<font color=red> 非学无以广才，非志无以成学</font>。淫慢则不能励精，险躁则不能治性。年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！
+夫君子之行，静以修身，俭以养德。非淡泊无以明志，非宁静无以致远。夫学须静也，才须学也，**非学无以广才，非志无以成学**。淫慢则不能励精，险躁则不能治性。年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！
 <!--
 **q2587218416/q2587218416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
